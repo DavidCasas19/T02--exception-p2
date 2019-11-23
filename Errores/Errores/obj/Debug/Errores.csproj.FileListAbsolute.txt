@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\Errores\Errores\bin\Debug\Errores.exe.config
+C:\Users\david\source\repos\Errores\Errores\bin\Debug\Errores.exe
+C:\Users\david\source\repos\Errores\Errores\bin\Debug\Errores.pdb
+C:\Users\david\source\repos\Errores\Errores\obj\Debug\Errores.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Errores\Errores\obj\Debug\Errores.exe
+C:\Users\david\source\repos\Errores\Errores\obj\Debug\Errores.pdb
